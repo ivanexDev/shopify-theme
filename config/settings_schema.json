@@ -31,11 +31,6 @@
         "label": "t:settings_schema.logo.settings.favicon.label",
         "info": "t:settings_schema.logo.settings.favicon.info"
       },
-      {
-        "type": "checkbox",
-        "id": "checkboxTest",
-        "label": "checkboxTest"
-      }  
     ]
   },
   {
